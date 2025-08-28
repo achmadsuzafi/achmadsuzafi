@@ -1,3 +1,6 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -48,7 +51,3 @@
 ##### my github stats
 
 ![Achmad Suzfai's GitHub stats](https://github-readme-stats.vercel.app/api?username=achmadsuzafi&show_icons=true&theme=transparent) -->
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
