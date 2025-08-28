@@ -45,7 +45,7 @@
 
 ##### connect with me
 
-![https://instagram.com/cah.qodry/]<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge https://instagram.com/cah.qodry/" height="25" alt="instagram logo"  />
 ![https://www.linkedin.com/in/achmad-sulton-zainul-firdaus/]<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
 
 ##### my github stats
