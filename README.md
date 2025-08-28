@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">I'm Achmad Suzafi from Indonesia<br><br>- 🔭 I’m working as Web Dev, Mechine learning<br>- 📚 I'm currently learning @WPU Course @AWS by Dikoding @gigitalent @Garir Generator<br>- 🌱 I’m currently learning Exprees, Laravel Frameworok</p>
+<p align="left">I'm Achmad Suzafi from Indonesia<br><br>- 🔭 I’m working as Web Dev, Mechine learning<br>- 📚 I'm currently learning @WPU Course @AWS by Dikoding @digitalent by Kominfo @Garir Generator<br>- 🌱 I’m currently learning Exprees, Laravel Frameworok</p>
 
 ###
 
